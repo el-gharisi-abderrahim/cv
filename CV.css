@@ -1,0 +1,76 @@
+.page{
+	width : 780px;
+	margin : auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.infophoto{
+	height : 150px;
+}
+.info{
+	float : left;
+}
+
+.photo{
+float : right;
+}
+
+.prtie{
+	margination-bottom : 70px;
+	text-align : justify;
+}
+
+.part-gauche{
+	float : left;
+}
+#forma-gauche p{
+	margin-bottom :17px;
+}
+
+
+strong{
+	font-size : 26px;
+}
+
+h2{
+	font-size : 28px;
+	color : #990033;
+	text-transform : uppercase;
+	border-bottom : 3px solid #990033;
+}
+.part-droite{
+	margin-left : 150px;
+	margin-top : 37px;
+}
+#exper-gauche p{
+	margin-bottom : 40px;
+	padding : 10px;
+}
+
+#etu-gauche p{
+	margin-bottom : 30px;
+	padding : -2px;
+}
+
+#form-gauche p{
+	margin-bottom : 25px;
+	padding : -14px;
+}
+
+.mdl-slider__container {
+    background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+    top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+    width: 50vw; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
+
+.index {
+	text-align: center;
+   /* background-color: white !important; /* Met le fond de la barre en blanc */
+    position: fixed !important; /* Permet de définir la position de la barre comme fixe */
+   top: 0; /* Défini la postion de la barre en haut */
+    z-index: 200; /* Une valeur élevée ici permet de s'assurer que l'élément est au dessus des autres */
+   /* width: 20%; /* Défini la largeur de l'élément comme étant 100% de la largeur de l'écran */
+}
